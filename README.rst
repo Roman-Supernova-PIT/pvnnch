@@ -1,8 +1,10 @@
-*PVNNCH*
+PVNNCH
+------
 Photometry from Vectorized NN2 Combination for HLTDS.
 L. Aldoroty and B. Carreres, 2006
 
 This package contains a vectorized version of the NN2 method, first presented in Novicki & Tonry 2000 and Barris et al. 2005.
+
 -------------------------------------------------------------------------------------------------------------------------------------
 
 License
